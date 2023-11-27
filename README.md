@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BrunaQgis
 - 👀 I’m interested in all
-- 🌱 Não leio coisas que os outros leem
-- 💞️ Solteira
-- 📫 De alguma forma se quiser você me acha
+- 🌱 Currently in a process of continuous effort and repetition to be better than yesterday.
+- 💞️ Falling in love
+- 📫 brunaqgis@gmail.com
 
 <!---
 BrunaQgis/BrunaQgis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
